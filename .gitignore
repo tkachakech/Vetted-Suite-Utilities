@@ -1,0 +1,8 @@
+
+# Nuitka Build Junk
+*.build/
+*.dist/
+*.onefile-build/
+build_output/
+*.exe
+*.task
